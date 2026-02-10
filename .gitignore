@@ -1,0 +1,10 @@
+# ===== VS Code =====
+.vscode/
+!.vscode/extensions.json
+
+# ===== Build files =====
+*.exe
+*.out
+*.app
+*.o
+*.obj
